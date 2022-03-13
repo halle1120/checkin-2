@@ -1,6 +1,7 @@
 body{
     font-family: Didot;
-    background: #F2E2BA;
+    background-image: url("../images/backgroundphoto.png");
+    background-color: peachpuff;
     color: #152d3d;
     margin-top: 25px;
     margin-left: 25px;
@@ -10,7 +11,8 @@ body{
 h1{
     font-size: 30px;
     margin: 12px 0;
-    background-color: #F2E2BA;
+    background-color: peachpuff;
+    border-radius: 50px;
     color: midnightblue;
     font-style: bold;
     text-align: center;
@@ -53,7 +55,7 @@ img:hover:nth-child(odd){
     
 }
 .active{
-    background-color: #CBD4E1;
+    background-color: whitesmoke;
     font-weight: bold;
     border: 2px solid black;
 }
